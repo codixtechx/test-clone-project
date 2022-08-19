@@ -1,2 +1,3 @@
-echo " i am in love with FERARRI"
+read -p "enter your name : " -s user_name
 
+echo "your user_name is $user_name"
