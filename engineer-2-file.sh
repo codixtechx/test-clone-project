@@ -1,3 +1,4 @@
-echo " i am in love with FERARRI"
+echo " i in love with DEVOPS  today"
+
 
 adding new script 
